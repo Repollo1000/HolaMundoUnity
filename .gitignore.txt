@@ -1,0 +1,35 @@
+# Unity
+[Libraries]
+Library/
+Temp/
+Obj/
+Build/
+Builds/
+Logs/
+MemoryCaptures/
+
+# IDE
+.vscode/
+*.csproj
+*.unityproj
+*.sln
+*.suo
+*.user
+*.userprefs
+
+# Unity Cache
+*.pidb
+*.booproj
+*.svd
+*.pdb
+*.mdb
+*.opendb
+*.pidb.meta
+*.pdb.meta
+
+# Crash Logs
+sysinfo.txt
+
+# Sistema operativo
+.DS_Store
+Thumbs.db
